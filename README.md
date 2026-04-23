@@ -173,8 +173,8 @@ Diseño y desarrollo soluciones de extremo a extremo — desde el esquema de bas
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=breno-devs&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-devs&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=breno-devs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=contribs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-devs&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
 ---
