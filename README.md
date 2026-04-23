@@ -1,64 +1,66 @@
 ## 🇺🇸 EN
 
-## 🚀 About Me
+[![GitHub followers](https://img.shields.io/github/followers/breno-devs?style=social)](https://github.com/breno-devs)
 
-I'm Breno Henrique, a Full Stack Developer focused on building real-world systems, automations and API integrations.
+## 🚀 Value Proposition
 
-I specialize in creating backend-driven solutions that connect systems, automate processes and deliver scalable applications with clean architecture.
+I'm **Breno Henrique**, a **Full Stack Developer** focused on building **real-world systems, automations, and API-driven applications**.
 
-Even though I'm early in my professional journey, I focus on writing production-oriented code and building complete end-to-end systems.
+I design and develop end-to-end solutions with strong focus on backend logic, integrations, and scalable architecture.
 
-- ⚙️ Building full systems (frontend + backend)
-- 🔗 API integrations (payments, webhooks, external services)
-- 🤖 Process automation and system communication
-- 📊 Dashboards and internal management tools
+Even at an early stage in my professional journey, I focus on writing production-oriented code and building systems that simulate real business environments.
+
+- ⚙️ Build complete systems (frontend + backend)
+- 🔗 API integrations (payments, webhooks, AI, external services)
+- 🤖 Automate processes and workflows
+- 📊 Develop dashboards and internal management systems
 
 ---
 
 ## 🇧🇷 PT-BR
 
-## 🚀 Sobre mim
+## 🚀 Proposta de Valor
 
-Sou Breno Henrique, desenvolvedor Full Stack com foco em sistemas reais, automações e integrações entre APIs.
+Sou **Breno Henrique**, desenvolvedor Full Stack focado em construir **sistemas reais, automações e aplicações baseadas em APIs**.
 
-Tenho foco em criar soluções backend-driven que conectam sistemas, automatizam processos e entregam aplicações escaláveis com boa arquitetura.
+Desenvolvo soluções completas com foco em lógica de backend, integrações entre sistemas e arquitetura escalável.
 
-Mesmo estando no início da carreira profissional, busco sempre escrever código com padrão de produção e desenvolver sistemas completos de ponta a ponta.
+Mesmo estando no início da jornada profissional, busco escrever código com padrão de produção e construir sistemas que simulam cenários reais de negócio.
 
 - ⚙️ Construção de sistemas completos (frontend + backend)
-- 🔗 Integração com APIs (pagamentos, webhooks, serviços externos)
-- 🤖 Automação de processos e comunicação entre sistemas
-- 📊 Dashboards e sistemas administrativos
+- 🔗 Integração com APIs (pagamentos, webhooks, IA e serviços externos)
+- 🤖 Automação de processos e fluxos
+- 📊 Criação de dashboards e sistemas administrativos
 
 ---
 
-## 🧠 Stack
+## 🧠 Core Focus | Foco Principal
 
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** C#, Node.js
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Integrações:** APIs REST, Webhooks
-- **Outros:** Git, Docker (básico)
+- **APIs:** REST, Webhooks, Third-party integrations
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker (basic)
 
 ---
 
-## 🧩 Projects
+## 🧩 Projects | Projetos
 
-> ⚠️ I am currently building my portfolio projects.
+> ⚠️ Currently building my portfolio projects
 
 ### 🚀 LeadFlow AI
 SaaS system for lead automation with AI-based response generation and contact management.
 
 ### 🛒 E-commerce System
-Full-stack e-commerce system with product catalog, cart, checkout and digital delivery automation.
+Full-stack e-commerce platform with product catalog, cart system, checkout flow, and digital delivery simulation.
 
 ---
 
-## 📈 GitHub
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=breno-devs&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-devs&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=breno-devs&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-devs&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -66,4 +68,4 @@ Full-stack e-commerce system with product catalog, cart, checkout and digital de
 ## 🌐 Contact
 
 - 💻 GitHub: https://github.com/breno-devs
-- 🌍 Portfolio: Coming soon
+- 🌍 Portfolio: coming soon
