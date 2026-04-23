@@ -35,7 +35,7 @@ I design and develop end-to-end solutions — from database schema to polished U
 
 ## 🧩 Projects
 
-> 🚧 No public projects yet — currently building. Check back soon.
+- **[LeadFlow AI](https://github.com/breno-devs/leadflow-ais)** — High-performance lead qualification platform featuring AI contextual scoring, automated funnels, and a brand-voice Copilot. Built with Next.js 15 and Tailwind CSS 4.
 
 ---
 
@@ -64,7 +64,7 @@ Desenvolvo soluções completas — do banco de dados à interface — com foco 
 
 ## 🧩 Projetos
 
-> 🚧 Nenhum projeto público ainda — em construção. Em breve por aqui.
+- **[LeadFlow AI](https://github.com/breno-devs/leadflow-ais)** — Plataforma de qualificação de leads de alta performance com scoring contextual por IA, funis automáticos e Copiloto com tom de marca. Desenvolvido com Next.js 15 e Tailwind 4.
 
 ---
 
@@ -93,7 +93,7 @@ Diseño y desarrollo soluciones de extremo a extremo — desde el esquema de bas
 
 ## 🧩 Proyectos
 
-> 🚧 Aún sin proyectos públicos — en construcción. Pronto habrá novedades.
+- **[LeadFlow AI](https://github.com/breno-devs/leadflow-ais)** — Plataforma de calificación de leads de alto rendimiento con IA, scoring contextual, embudos automáticos y Copiloto con tono de marca. Desarrollado con Next.js 15 y Tailwind 4.
 
 ---
 
@@ -101,7 +101,7 @@ Diseño y desarrollo soluciones de extremo a extremo — desde el esquema de bas
 
 | Metric | Value |
 |--------|-------|
-| **Full-Stack Projects** | Coming soon |
+| **Full-Stack Projects** | 1 (LeadFlow AI) |
 | **Tech Stack Skills** | 15+ |
 | **Primary Focus** | Systems · Automation · AI |
 | **Code Standard** | Production-oriented |
@@ -156,7 +156,7 @@ Diseño y desarrollo soluciones de extremo a extremo — desde el esquema de bas
 | Platform | Link |
 |----------|------|
 | 💻 GitHub | https://github.com/breno-devs |
-| 🌐 Portfolio | Coming soon |
+| 🌐 LinkedIn | [Seu Perfil Aqui] |
 
 </div>
 
