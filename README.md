@@ -156,7 +156,8 @@ Diseño y desarrollo soluciones de extremo a extremo — desde el esquema de bas
 | Platform | Link |
 |----------|------|
 | 💻 GitHub | https://github.com/breno-devs |
-| 🌐 LinkedIn | [Seu Perfil Aqui] |
+| 🌐 Portfólio | Em Breve... |
+| 🌐 LinkedIn | Em Breve... |
 
 </div>
 
