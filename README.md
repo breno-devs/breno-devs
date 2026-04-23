@@ -35,17 +35,7 @@ I design and develop end-to-end solutions — from database schema to polished U
 
 ## 🧩 Projects
 
-### 🤖 [LeadFlow AI](https://github.com/breno-devs)
-**AI-Powered Lead Automation SaaS** | Next.js + Node.js + OpenAI + PostgreSQL
-✅ AI-generated responses tailored per lead context and history
-✅ Full dashboard with conversion metrics, lead scoring, and activity feed
-✅ Webhook integrations and automated workflow triggers
-
-### 🛒 [E-commerce System](https://github.com/breno-devs)
-**Full-Stack E-commerce Platform** | Next.js + Node.js + PostgreSQL
-✅ Product catalog, cart management, checkout flow with payment integration
-✅ Admin panel with order management and digital delivery simulation
-✅ Real-time stock updates and fully responsive design
+> 🚧 No public projects yet — currently building. Check back soon.
 
 ---
 
@@ -74,17 +64,7 @@ Desenvolvo soluções completas — do banco de dados à interface — com foco 
 
 ## 🧩 Projetos
 
-### 🤖 [LeadFlow AI](https://github.com/breno-devs)
-**SaaS de Automação de Leads com IA** | Next.js + Node.js + OpenAI + PostgreSQL
-✅ Respostas geradas por IA personalizadas pelo contexto e histórico de cada lead
-✅ Dashboard completo com métricas de conversão, score de leads e feed de atividades
-✅ Integrações via webhook e gatilhos de fluxo automatizados
-
-### 🛒 [E-commerce System](https://github.com/breno-devs)
-**Plataforma E-commerce Full-Stack** | Next.js + Node.js + PostgreSQL
-✅ Catálogo de produtos, carrinho, checkout com integração de pagamento
-✅ Painel administrativo com gestão de pedidos e simulação de entrega digital
-✅ Atualização de estoque em tempo real e design totalmente responsivo
+> 🚧 Nenhum projeto público ainda — em construção. Em breve por aqui.
 
 ---
 
@@ -113,17 +93,7 @@ Diseño y desarrollo soluciones de extremo a extremo — desde el esquema de bas
 
 ## 🧩 Proyectos
 
-### 🤖 [LeadFlow AI](https://github.com/breno-devs)
-**SaaS de Automatización de Leads con IA** | Next.js + Node.js + OpenAI + PostgreSQL
-✅ Respuestas generadas por IA personalizadas según el contexto e historial de cada lead
-✅ Dashboard completo con métricas de conversión, scoring de leads y feed de actividades
-✅ Integraciones vía webhook y disparadores de flujo automatizados
-
-### 🛒 [E-commerce System](https://github.com/breno-devs)
-**Plataforma E-commerce Full-Stack** | Next.js + Node.js + PostgreSQL
-✅ Catálogo de productos, carrito, checkout con integración de pagos
-✅ Panel administrativo con gestión de pedidos y simulación de entrega digital
-✅ Actualización de stock en tiempo real y diseño completamente responsivo
+> 🚧 Aún sin proyectos públicos — en construcción. Pronto habrá novedades.
 
 ---
 
@@ -131,7 +101,7 @@ Diseño y desarrollo soluciones de extremo a extremo — desde el esquema de bas
 
 | Metric | Value |
 |--------|-------|
-| **Full-Stack Projects** | 2+ (growing) |
+| **Full-Stack Projects** | Coming soon |
 | **Tech Stack Skills** | 15+ |
 | **Primary Focus** | Systems · Automation · AI |
 | **Code Standard** | Production-oriented |
